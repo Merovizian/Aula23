@@ -13,7 +13,7 @@ else:
 
 import endereco
 
-local = endereco.endereco(29931120)
-help(endereco)
+local = endereco.endereco(29836693)
 for t,v in local.items():
-    print(f"{t} : {v}")
+      print(f"{t} : {v}")
+print(local)
